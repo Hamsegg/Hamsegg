@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hamsegg
-- 👀 I’m interested in Web Develpoment
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email ==> yashnemade17@gmail.com
